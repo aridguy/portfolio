@@ -10,7 +10,7 @@
     $message ="NAME =====>>>> ". $name . "\r\n EMAIL=====>>>> " . $email . "\r\n MESSAGE =====>>>>> " . $message;
     
     $subject ="PORTFOLIO CONTACT FORM";
-    $fromname ="Great Adventure Int'l";
+    $fromname ="Contact page";
     $fromemail = 'codetechs247@gmail.com';  //if u dont have an email create one on your cpanel
 
     $mailto = 'codetechs247@gmail.com';  //the email which u want to recv this email
